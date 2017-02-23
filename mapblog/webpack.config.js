@@ -1,5 +1,5 @@
 module.exports = {
-  entry: './frontend/mapblog.jsx',
+  entry: 'frontend/mapblog.jsx',
   output: {
     path: 'app/assets/javascripts',
     filename: 'bundle.js',
